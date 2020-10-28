@@ -27,3 +27,11 @@ View the toolbar in action on our [2020 Wiki](https://2020.igem.org/Team:Waterlo
 3. Add the css to your existing css for your wiki. 
 4. Add the scripts to your scripts folder. 
 5. Customize accessibility.js to your needs as indicated in the comments of that file.
+
+## Future Improvements
+This toolbar is a work in progress. 
+In future iterations, we want to include:
+* Repeat or skip to next paragraph in read-aloud screen-reader
+* Word-highlighter (as the screen-reader plays)
+* Customizable colour palettes (for various types of colour-blindness)
+
