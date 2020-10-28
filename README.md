@@ -1,7 +1,7 @@
 # accessibility-toolbar
 
 Welcome to Waterloo iGEM's accessibility toolbar repo!
-This features of this toolbar are read aloud (play, pause, restart), adjust font size, and keyboard shortcuts. 
+The features of this toolbar are read aloud (play, pause, restart), adjust font size, and keyboard shortcuts. 
 It was built using [Mousetrap](https://craig.is/killing/mice) and [Articulate.js](http://articulate.purefreedom.com/).
 
 ![expanded](https://github.com/igem-waterloo/accessibility-toolbar/blob/main/expanded.png)
@@ -17,7 +17,7 @@ View the toolbar in action on our [2020 Wiki](https://2020.igem.org/Team:Waterlo
  ```
 <script>
   $(function() {
-	  $('accessibility').load(' PATH TO THE accessibility.html ');
+	  $('accessibility').load(' PATH TO THE accessibility.html file');
   });
 </script>
   ```
