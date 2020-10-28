@@ -4,8 +4,8 @@ Welcome to Waterloo iGEM's accessibility toolbar repo!
 This features of this toolbar are read aloud (play, pause, restart), adjust font size, and keyboard shortcuts. 
 It was built using [Mousetrap](https://craig.is/killing/mice) and [Articulate.js](http://articulate.purefreedom.com/).
 
-![expanded]()
-![not expanded]()
+![expanded](https://github.com/igem-waterloo/accessibility-toolbar/blob/main/expanded.png)
+![not expanded](https://github.com/igem-waterloo/accessibility-toolbar/blob/main/notexpanded.png)
 
 
 ## How to use the tool
