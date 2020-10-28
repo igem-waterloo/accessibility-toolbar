@@ -7,6 +7,8 @@ It was built using [Mousetrap](https://craig.is/killing/mice) and [Articulate.js
 ![expanded](https://github.com/igem-waterloo/accessibility-toolbar/blob/main/expanded.png)
 ![not expanded](https://github.com/igem-waterloo/accessibility-toolbar/blob/main/notexpanded.png)
 
+View the toolbar in action on our [2020 Wiki](https://2020.igem.org/Team:Waterloo) and see our implementation using this toolbar on github [here](https://github.com/igem-waterloo/wiki2020).
+
 
 ## How to use the tool
 
