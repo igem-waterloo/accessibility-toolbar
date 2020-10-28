@@ -1,0 +1,102 @@
+.accessibility-tool .fixed {
+  background-color: black !important;
+  color: white !important;
+  font-size: 10px;
+  position: fixed;
+  bottom: 0px;
+  right: 30px;
+  width: 205px;
+  height: 78px;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  z-index: 999;
+}
+
+.accessibility-tool .same {
+  padding: 8px !important;
+}
+
+.accessibility-tool .toolbar-title, .accessibility-tool .arrow {
+  text-align: center !important;
+  margin: 0px 0px !important;
+  color: white !important;
+  font-size: 19px !important;
+  line-height: 20px !important;
+}
+
+.arrow {
+  transform: rotate(180deg);
+}
+
+.arrow:hover {
+  cursor: pointer !important;
+}
+
+.words h2 {
+  text-align: left !important;
+  margin: 0px !important;
+  color: white !important;
+  font-size: 16px !important;
+  font-weight: 600 !important;
+}
+
+.words h3 {
+  text-align: left !important;
+  margin: 0px !important;
+  color: white !important;
+  font-size: 14px !important;
+  font-weight: 600 !important;
+}
+
+.accessibility-tool .shortcut {
+  color: #C2C0FF !important;
+  font-size: 12px !important;
+  text-align: center !important;
+  line-height: 18px !important;
+}
+
+.words .shortcut {
+  font-size: 10px !important;
+  text-align: left !important;
+}
+
+.accessibility-tool .toolbar-read,  .accessibility-tool .toolbar-size {
+  width: 89%; 
+  margin: auto; 
+  border: solid #fff;
+  border-width: 3px !important;
+  border-radius: 10px !important;
+  margin-bottom: 10px !important;
+  padding: 3px 5px !important;
+  visibility: hidden;
+}
+
+.words {
+  float: left;
+  width: 55%;
+  padding: 6px 0px !important;
+}
+
+.toolbar-read .articulate-area, .toolbar-size .size-area {
+  float: left;
+  width: 45%;
+}
+
+.articulate-area svg , .size-area svg {
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  margin-top: 12px !important;
+  margin-bottom: 15px !important;
+}
+
+.toolbar-read:after, .toolbar-size:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+#pause:hover, #play:hover, #restart:hover, #minus:hover, #plus:hover {
+  cursor: pointer; 
+}
+
